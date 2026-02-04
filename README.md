@@ -1,4 +1,4 @@
-                                          🎲 Student Management System (Java)
+                                           🎲 Student Management System (Java)
                                                                          
 A menu-driven Student Management System built using Java that helps manage student academic records efficiently.
 This project demonstrates core Java concepts, Object-Oriented Programming, and real-world problem solving, making it ideal for college projects and placement preparation.
